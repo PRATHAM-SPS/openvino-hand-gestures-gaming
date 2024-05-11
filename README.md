@@ -1,6 +1,6 @@
 # Hand Gesture Recognition for Racing Games using OpenVINO
 
-Welcome to the Hand Gesture Recognition project powered by OpenVINO! 🚗🎮
+Welcome to the Hand Gesture Recognition project leveraging the power of  OpenVINO! 🚗🎮
 
 ## Overview
 
@@ -19,8 +19,8 @@ Follow these steps to set up the Hand Gesture Recognition system:
 
 1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your-username/hand-gesture-recognition.git`.
 2. **Install Dependencies**: Install the necessary dependencies by running `pip install -r requirements.txt`.
-3. **Download Pre-trained Models**: Download the pre-trained models for palm detection and hand landmark recognition from the [Intel Open Model Zoo](https://github.com/openvinotoolkit/open_model_zoo) and place them in the `models/` directory.
-4. **Run the Application**: Execute the `hand_gesture_recognition.py` script to launch the application and start recognizing hand gestures in real-time.
+3. **FOR CPU Users**: 'python HandTracker.py -g'
+4. **FOR GPU Users**: 'python HandTracker.py -g --pd_device GPU'
 5. **Enjoy Gaming**: Launch your favorite racing game and experience the thrill of controlling the action with just your hands!
 
 ## Contributing
