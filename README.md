@@ -36,4 +36,4 @@ Feel free to open an issue or submit a pull request with your contributions!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+**Copyright@PRATHAM-SPS 2024**
