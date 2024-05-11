@@ -1,0 +1,4 @@
+opencv-python >= 4.5.5.62
+numpy
+openvino==2023.3.0
+keyboard
