@@ -17,7 +17,7 @@ This project utilizes Intel's OpenVINO toolkit to create a real-time hand gestur
 
 Follow these steps to set up the Hand Gesture Recognition system:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your-username/hand-gesture-recognition.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/PRATHAM-SPS/hand-gesture-recognition.git`.
 2. **Install Dependencies**: Install the necessary dependencies by running `pip install -r requirements.txt`.
 3. **FOR CPU Users**: `python HandTracker.py -g`
 4. **FOR GPU Users**: `python HandTracker.py -g --pd_device GPU`
